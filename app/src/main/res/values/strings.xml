@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Convertidor de Divisas con Seekbar</string>
+    <string name="ultima_actualizacion">Última actualización</string>
+    <string name="moneda_base">MXN: 1.00</string>
+    <string name="moneda_dolar">USD: </string>
+    <string name="moneda_euro">EUR: </string>
+    <string name="moneda_libra">GBP: </string>
+
+    <string name="moneda_real">BRL: </string>
+    <string name="moneda_yen">JPY: </string>
+    <string name="moneda_yuan">CNY: </string>
+    <string name="moneda_canada">CAD: </string>
+
+</resources>
